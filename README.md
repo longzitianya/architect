@@ -1,3 +1,6 @@
+基于蚂蚁金服「如何管理好10万行代码」搭建了 Vue 项目架构
+https://juejin.im/post/5b0d0b556fb9a00a284982aa
+
 # vuetemplate
 
 > A Vue.js project
